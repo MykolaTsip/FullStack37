@@ -1,0 +1,27 @@
+
+#firstId {
+    background-color: chocolate;
+}
+
+
+#secondId {
+    color: silver;
+}
+
+blockquote {
+    color: yellow;
+}
+
+
+div {
+    color: green;
+    background-color: black;
+}
+
+.secondClass {
+    background-color: aqua;
+}
+
+.firstClass {
+    color: orange;
+}
